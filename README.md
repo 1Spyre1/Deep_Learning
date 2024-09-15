@@ -1,2 +1,2 @@
-# Deep_Learning
+# Step by step "Deep Learning" 
 Deep Learning scratches which is bunch of codes with descriptions encompass neural networks, convolutional neural networks, classification and linearity problems.
